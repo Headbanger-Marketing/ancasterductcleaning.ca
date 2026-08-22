@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ancasterductcleaning.ca/sitemap-index.xml
