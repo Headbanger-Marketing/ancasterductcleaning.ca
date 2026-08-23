@@ -1,2 +1,25 @@
 # Ancaster Duct Cleaning
-HVAC services in Ontario.
+
+> Ancaster Duct Cleaning is a local HVAC company serving Ancaster, Hamilton, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (289) 204-2884  |  Email: contact@ancasterductcleaning.ca  |  Website: https://ancasterductcleaning.ca
+
+## Key pages
+
+- [Home](https://ancasterductcleaning.ca/): Ancaster Duct Cleaning homepage with service overview and FAQ
+- [About](https://ancasterductcleaning.ca/about/): About the company and service area
+- [Contact](https://ancasterductcleaning.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Air Duct Cleaning](https://ancasterductcleaning.ca/services/air-duct-cleaning/): Air Duct Cleaning in Ancaster, Ontario
+- [Dryer Vent Cleaning](https://ancasterductcleaning.ca/services/dryer-vent-cleaning/): Dryer Vent Cleaning in Ancaster, Ontario
+- [Furnace & AC Cleaning](https://ancasterductcleaning.ca/services/furnace-ac-cleaning/): Furnace & AC Cleaning in Ancaster, Ontario
+- [HRV & Ventilation Cleaning](https://ancasterductcleaning.ca/services/hrv-ventilation-cleaning/): HRV & Ventilation Cleaning in Ancaster, Ontario
+- [Duct Sanitizing & Deodorizing](https://ancasterductcleaning.ca/services/duct-sanitizing/): Duct Sanitizing & Deodorizing in Ancaster, Ontario
+- [Duct Sealing & Repair](https://ancasterductcleaning.ca/services/duct-sealing-repair/): Duct Sealing & Repair in Ancaster, Ontario
+- [Commercial Duct Cleaning](https://ancasterductcleaning.ca/services/commercial-duct-cleaning/): Commercial Duct Cleaning in Ancaster, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Ancaster are answered on the homepage.
